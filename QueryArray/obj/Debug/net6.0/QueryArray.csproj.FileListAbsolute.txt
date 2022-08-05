@@ -1,0 +1,15 @@
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\bin\Debug\net6.0\QueryArray.exe
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\bin\Debug\net6.0\QueryArray.deps.json
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\bin\Debug\net6.0\QueryArray.runtimeconfig.json
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\bin\Debug\net6.0\QueryArray.dll
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\bin\Debug\net6.0\QueryArray.pdb
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\obj\Debug\net6.0\QueryArray.csproj.AssemblyReference.cache
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\obj\Debug\net6.0\QueryArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\obj\Debug\net6.0\QueryArray.AssemblyInfoInputs.cache
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\obj\Debug\net6.0\QueryArray.AssemblyInfo.cs
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\obj\Debug\net6.0\QueryArray.csproj.CoreCompileInputs.cache
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\obj\Debug\net6.0\QueryArray.dll
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\obj\Debug\net6.0\refint\QueryArray.dll
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\obj\Debug\net6.0\QueryArray.pdb
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\obj\Debug\net6.0\QueryArray.genruntimeconfig.cache
+C:\Users\santa\RiderProjects\QueryArray\QueryArray\obj\Debug\net6.0\ref\QueryArray.dll
